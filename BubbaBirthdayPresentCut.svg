@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55mm"
+   height="86.429001mm"
+   viewBox="0 0 55.000003 86.429006"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="BubbaBirthdayPresentCut.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#838383"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6724968"
+     inkscape:cx="-12.059387"
+     inkscape:cy="163.33035"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Graphics"
+     id="layer2"
+     inkscape:groupmode="layer"
+     transform="translate(0,-192.97099)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.19510294;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.9331558,197.78198 H 15.62241 c 0.570059,0 1.028988,0.45893 1.028988,1.02899 v 5.37464 c 0,0.57006 -0.458929,1.02899 -1.028988,1.02899 H 5.9331558 c -0.5700592,0 -1.0289877,-0.45893 -1.0289877,-1.02899 v -5.37464 c 0,-0.57006 0.4589285,-1.02899 1.0289877,-1.02899 z"
+       id="rect829" />
+    <path
+       transform="scale(-1,1)"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35756886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -51.254055,193.15022 h 47.5081141 c 1.9762052,0 3.56715748,1.59096 3.56715748,3.56716 v 78.93668 c 0,1.9762 -1.59095228,3.56715 -3.56715748,3.56715 H -51.254055 c -1.976206,0 -3.567158,-1.59095 -3.567158,-3.56715 v -78.93668 c 0,-1.9762 1.590952,-3.56716 3.567158,-3.56716 z"
+       id="rect1358" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.00213508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.09893247,279.35001 A 0.04893246,0.04893246 0 0 1 0.05,279.39894 0.04893246,0.04893246 0 0 1 0.00106754,279.35001 0.04893246,0.04893246 0 0 1 0.05,279.30107 a 0.04893246,0.04893246 0 0 1 0.04893247,0.0489 z"
+       id="path880" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.00213508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.998933,193.021 a 0.04893246,0.04893246 0 0 1 -0.04893,0.0489 0.04893246,0.04893246 0 0 1 -0.04893,-0.0489 0.04893246,0.04893246 0 0 1 0.04893,-0.0489 0.04893246,0.04893246 0 0 1 0.04893,0.0489 z"
+       id="circle882" />
+  </g>
+</svg>
